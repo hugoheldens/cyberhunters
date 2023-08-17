@@ -1,6 +1,6 @@
 # cyberhunters
 # Descargador de Libros
-Este es un programa en Python que te permite descargar libros del sitio web de CONALITEG (Comisión Nacional de Libros de Texto Gratuitos).
+Este es un programa en Python que te permite descargar libros del sitio web de la Comisión Encargada de imprimir y distribuir libros de texto gratuitos colocando de manera digital los libros para que cualquier perosna que lo desee pueda acceder a ellos siempre y cuando cuenten con una conexion a internet.
 
 ## Descripción
 
@@ -17,4 +17,12 @@ Puedes instalar estas bibliotecas utilizando el siguiente comando:
 
 ```bash
 pip install requests beautifulsoup4
+```
+#Creditos 
+
+*Acosta Monter Alan 
+*Fernandez Avila Hugo
+*Hidalgo Lara Jared
+*Noyola Nazario Oscar
+
 
