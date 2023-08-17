@@ -18,11 +18,12 @@ Puedes instalar estas bibliotecas utilizando el siguiente comando:
 ```bash
 pip install requests beautifulsoup4
 ```
-# Creditos 
-
-*Acosta Monter Alan 
-*Fernandez Avila Hugo
-*Hidalgo Lara Jared
-*Noyola Nazario Oscar
+## Creditos 
+Colaboradores
+* Acosta Monter Alan 
+* Fernandez Avila Hugo
+* Hidalgo Lara Jared
+* Moyeda Zendejas Adad Alejandro
+* Noyola Nazario Oscar
 
 
